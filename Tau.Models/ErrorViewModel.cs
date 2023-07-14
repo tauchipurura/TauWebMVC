@@ -1,4 +1,4 @@
-namespace TauWeb.Models
+namespace Tau.Models
 {
     public class ErrorViewModel
     {
